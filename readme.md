@@ -1,3 +1,3 @@
-# Working with Git for the first time
+# Python3 Practice
 
-This readme is in my day2 folder. It will be commited to git.
+Practice using loops in Python in the August 2019 Digital Crafts Cohort
